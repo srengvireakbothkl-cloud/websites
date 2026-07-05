@@ -58,7 +58,7 @@ See [Android Developer](https://developer.android.com/studio/command-line/adb) f
 
    * [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
    * [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
-   * [Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
+   * [Mac](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
 2. Open the folder, right click to select
 
